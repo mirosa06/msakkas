@@ -10144,3 +10144,24 @@ section.resume-section .resume-section-content {
   #interests {
     min-height: 50vh;
   }
+
+  #bg-image.lazy {
+    background-image: none;
+    background-color: #F1F1FA;
+ }
+ #bg-image {
+  background-image: url(WordHello.png);
+  background-repeat: no-repeat;
+  background-position: 85% 110%;
+ }
+
+ #bg-image2.lazy2 {
+  background-image: none;
+  background-color: #F1F1FA;
+}
+
+#bg-image2 {
+  background-image: url(job.svg);
+  background-repeat: no-repeat;
+  background-position: 85% 50%;
+}
